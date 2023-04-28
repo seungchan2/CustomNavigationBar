@@ -9,7 +9,7 @@ import Foundation
 
 open class NavigationView {
     
-    var text = "11"
+    open var text = "11"
 }
 
 
