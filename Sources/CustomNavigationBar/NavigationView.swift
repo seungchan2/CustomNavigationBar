@@ -10,6 +10,10 @@ import Foundation
 open class NavigationView {
     
     open var text = "11"
+    
+    public init() {
+        
+    }
 }
 
 
