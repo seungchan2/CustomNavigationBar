@@ -7,9 +7,9 @@
 
 import Foundation
 
-open class NavigationView {
+public struct CustomNavigationView {
     
-    open var text = "11"
+    public var text = "11"
     
     public init() {
         
